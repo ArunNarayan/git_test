@@ -1,1 +1,2 @@
-This is Arun's first git project
+git config --global user.name "Arun"
+git config --global user.email "aaarun792@gmail.com"
